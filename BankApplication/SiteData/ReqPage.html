@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="../wwwroot/css/bootstrap-grid.css" rel="stylesheet" />
+    <link href="../wwwroot/css/bootstrap-reboot.css" rel="stylesheet" />
+    <link href="../wwwroot/css/bootstrap.css" rel="stylesheet" />
+    <title>Request Page</title>
+</head>
+<body class="container" style="padding-top:150px">
+    <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-10">
+            <form class="form-control" method="post" action="http://localhost:53944/api/Home/post" enctype="multipart/form-data">
+                <div class="row" style="padding:20px">
+                    <label for="AccNo" class="col-md-4 text-right" style="font-size:25px">Account Number</label>
+                    <input name="AccNo" id="AccNo" maxlength="10" type="number" class="col-md-6 form-control" />
+                </div>
+                <div class="row" style="padding:20px">
+                    <label for="AccBal" class="col-md-4 text-right" style="font-size:25px">Account Balance</label>
+                    <input name="AccBal" id="AccBal" type="number" class="col-md-6 form-control" />
+                </div>
+                <div class="row" style="padding:20px">
+                    <label for="AccType" class="col-md-4 text-right" style="font-size:25px">Account Type</label>
+                    <input name="AccType" id="AccType" type="text" class="col-md-6 form-control" autocomplete="off" />
+                </div>
+                <div class="row justify-content-md-center" style="padding:50px">
+                    <input id="SubmitBtn" type="submit" value="Create" class="btn btn-success align-content-center" style="font-size:20px" />
+                </div>
+            </form>
+        </div>
+        <div class="col-md-1"></div>
+    </div>
+    <div id="one"></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <script src="../wwwroot/js/jquery-3.3.1.min.js"></script>
+    <script src="ReqPage.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+C:\Users\v-vitada\source\repos\BankApplication\BankApplication.MVC\bin\Debug\netcoreapp2.0\BankApplication.MVC.deps.json
+C:\Users\v-vitada\source\repos\BankApplication\BankApplication.MVC\bin\Debug\netcoreapp2.0\BankApplication.MVC.runtimeconfig.json
+C:\Users\v-vitada\source\repos\BankApplication\BankApplication.MVC\bin\Debug\netcoreapp2.0\BankApplication.MVC.runtimeconfig.dev.json
+C:\Users\v-vitada\source\repos\BankApplication\BankApplication.MVC\bin\Debug\netcoreapp2.0\BankApplication.MVC.dll
+C:\Users\v-vitada\source\repos\BankApplication\BankApplication.MVC\bin\Debug\netcoreapp2.0\BankApplication.MVC.pdb
+C:\Users\v-vitada\source\repos\BankApplication\BankApplication.MVC\obj\Debug\netcoreapp2.0\BankApplication.MVC.csprojResolveAssemblyReference.cache
+C:\Users\v-vitada\source\repos\BankApplication\BankApplication.MVC\obj\Debug\netcoreapp2.0\BankApplication.MVC.csproj.CoreCompileInputs.cache
+C:\Users\v-vitada\source\repos\BankApplication\BankApplication.MVC\obj\Debug\netcoreapp2.0\BankApplication.MVC.AssemblyInfoInputs.cache
+C:\Users\v-vitada\source\repos\BankApplication\BankApplication.MVC\obj\Debug\netcoreapp2.0\BankApplication.MVC.AssemblyInfo.cs
+C:\Users\v-vitada\source\repos\BankApplication\BankApplication.MVC\obj\Debug\netcoreapp2.0\BankApplication.MVC.dll
+C:\Users\v-vitada\source\repos\BankApplication\BankApplication.MVC\obj\Debug\netcoreapp2.0\BankApplication.MVC.pdb
